@@ -12,6 +12,9 @@ from the playbook or by skipping the `laptop` tag.
 If Spark is run on either a ThinkPad or a MacBook, it will detect this and
 execute platform-specific tasks.
 
+## Fork
+Add support for Wayland (using Sway)
+
 ## Running
 
 First, sync mirrors and install Ansible:
